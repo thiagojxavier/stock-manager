@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop Dell XPS 13",
+        "description": "Laptop ultrafino com processador Intel Core i7, 16GB RAM e 512GB SSD.",
+        "quantity": 20,
+        "price": 1599.99,
+        "category": "Eletrônicos",
+        "imageUrl": "https://example.com/images/laptop-dell-xps-13.jpg",
+        "supplier": "Dell",
+        "restocked": {
+            "lastRestocked": "Mon Jul 15 2024 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "quantityAdded": 10
+        },
+        "createdAt": "Mon Aug 01 2023 10:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone Samsung Galaxy S21",
+        "description": "Smartphone com câmera de 64MP, 8GB RAM e 128GB de armazenamento.",
+        "quantity": 50,
+        "price": 799.99,
+        "category": "Eletrônicos",
+        "imageUrl": "https://example.com/images/galaxy-s21.jpg",
+        "supplier": "Samsung",
+        "restocked": {
+            "lastRestocked": "Mon Jul 22 2024 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "quantityAdded": 25
+        },
+        "createdAt": "Wed Sep 05 2023 11:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+        "id": 3,
+        "name": "Cadeira Gamer DXRacer",
+        "description": "Cadeira ergonômica para gamers com ajuste de altura e apoio para os braços.",
+        "quantity": 10,
+        "price": 299.99,
+        "category": "Móveis",
+        "imageUrl": "https://example.com/images/cadeira-gamer.jpg",
+        "supplier": "DXRacer",
+        "restocked": {
+            "lastRestocked": "Mon Jun 10 2024 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "quantityAdded": 5
+        },
+        "createdAt": "Thu Oct 12 2023 09:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+        "id": 4,
+        "name": "Monitor LG 27 UltraGear",
+        "description": "Monitor de 27 polegadas com resolução 1440p e taxa de atualização de 144Hz.",
+        "quantity": 15,
+        "price": 399.99,
+        "category": "Eletrônicos",
+        "imageUrl": "https://example.com/images/monitor-lg-ultragear.jpg",
+        "supplier": "LG",
+        "restocked": {
+            "lastRestocked": "Mon Jul 30 2024 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "quantityAdded": 8
+        },
+        "createdAt": "Mon Nov 20 2023 13:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+        "id": 5,
+        "name": "Tênis Nike Air Max 270",
+        "description": "Tênis esportivo com amortecimento Air Max e design moderno.",
+        "quantity": 30,
+        "price": 149.99,
+        "category": "Roupas e Acessórios",
+        "imageUrl": "https://example.com/images/tenis-nike-air-max-270.jpg",
+        "supplier": "Nike",
+        "restocked": {
+            "lastRestocked": "Thu Aug 15 2024 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "quantityAdded": 20
+        },
+        "createdAt": "Fri Jan 25 2024 14:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+        "id": 6,
+        "name": "Cafeteira Nespresso Essenza",
+        "description": "Cafeteira compacta com tecnologia de cápsulas para preparar café expresso.",
+        "quantity": 25,
+        "price": 89.99,
+        "category": "Eletrodomésticos",
+        "imageUrl": "https://example.com/images/cafeteira-nespresso.jpg",
+        "supplier": "Nespresso",
+        "restocked": {
+            "lastRestocked": "Thu Jul 25 2024 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "quantityAdded": 15
+        },
+        "createdAt": "Thu Feb 15 2024 15:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+        "id": 7,
+        "name": "Relógio Apple Watch Series 8",
+        "description": "Relógio inteligente com monitoramento de saúde e GPS integrado.",
+        "quantity": 40,
+        "price": 399.99,
+        "category": "Eletrônicos",
+        "imageUrl": "https://example.com/images/apple-watch-series-8.jpg",
+        "supplier": "Apple",
+        "restocked": {
+            "lastRestocked": "Thu Aug 01 2024 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "quantityAdded": 12
+        },
+        "createdAt": "Sun Mar 10 2024 16:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+        "id": 8,
+        "name": "Livro 'O Pequeno Príncipe'",
+        "description": "Edição especial do clássico 'O Pequeno Príncipe' com ilustrações coloridas.",
+        "quantity": 60,
+        "price": 19.99,
+        "category": "Livros",
+        "imageUrl": "https://example.com/images/o-pequeno-principe.jpg",
+        "supplier": "Editora XYZ",
+        "restocked": {
+            "lastRestocked": "Tue Jul 10 2024 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "quantityAdded": 30
+        },
+        "createdAt": "Fri May 18 2023 17:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+        "id": 9,
+        "name": "Fone de Ouvido Bose QuietComfort 35 II",
+        "description": "Fone de ouvido com cancelamento de ruído ativo e conforto superior.",
+        "quantity": 35,
+        "price": 299.99,
+        "category": "Eletrônicos",
+        "imageUrl": "https://example.com/images/fone-bose-quietcomfort-35-ii.jpg",
+        "supplier": "Bose",
+        "restocked": {
+            "lastRestocked": "Sat Aug 10 2024 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "quantityAdded": 20
+        },
+        "createdAt": "Mon Apr 22 2024 18:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    },
+    {
+        "id": 10,
+        "name": "Notebook Lenovo ThinkPad X1 Carbon",
+        "description": "Notebook empresarial com processador Intel Core i7, 16GB RAM e 1TB SSD.",
+        "quantity": 4,
+        "price": 1899.99,
+        "category": "Eletrônicos",
+        "imageUrl": "https://example.com/images/lenovo-thinkpad-x1.jpg",
+        "supplier": "Lenovo",
+        "restocked": {
+            "lastRestocked": "Thu Jun 20 2024 00:00:00 GMT-0300 (Horário Padrão de Brasília)",
+            "quantityAdded": 5
+        },
+        "createdAt": "Sat Jun 01 2024 19:00:00 GMT-0300 (Horário Padrão de Brasília)"
+    }
+]
+
